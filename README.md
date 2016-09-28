@@ -7,9 +7,36 @@
 
 ## Example
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+* 导入框架
+
+```swift
+import HLQRCodeScanner
+```
+
+* 打开扫描控制器，扫描及完成回调
+
+```swift
+
+
+let scanner = HLQRCodeScanner.scanner { (result) in
+debugPrint(result)
+}
+showDetailViewController(scanner, sender: nil)
+```
+
+* 生成二维码图片
+
+```swift
+let cardName = "wangshiyu13"
+let avatar = UIImage(named: "avatar")
+
+self.imageView.image = HLQRCodeScanner.createQRCodeImage(cardName, avatar: avatar, scale: 0.2)
+```
+
 
 ## Requirements
+
+This library requires iOS 8.0+ and Xcode 7.0+.
 
 ## Installation
 

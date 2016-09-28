@@ -1,0 +1,16 @@
+PODS:
+  - HLQRCodeScanner (1.0.1)
+
+DEPENDENCIES:
+  - HLQRCodeScanner (from `../`)
+
+EXTERNAL SOURCES:
+  HLQRCodeScanner:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HLQRCodeScanner: 51375f18a1b3a9a102f2b104db014dd195857e04
+
+PODFILE CHECKSUM: 218f3a9c00eab9cf2ee4e9c6d5be61da3edbe12b
+
+COCOAPODS: 1.0.1

@@ -1,9 +1,8 @@
 # HLQRCodeScanner
-
-[![CI Status](http://img.shields.io/travis/wangshiyu13/HLQRCodeScanner.svg?style=flat)](https://travis-ci.org/wangshiyu13/HLQRCodeScanner)
-[![Version](https://img.shields.io/cocoapods/v/HLQRCodeScanner.svg?style=flat)](http://cocoapods.org/pods/HLQRCodeScanner)
-[![License](https://img.shields.io/cocoapods/l/HLQRCodeScanner.svg?style=flat)](http://cocoapods.org/pods/HLQRCodeScanner)
-[![Platform](https://img.shields.io/cocoapods/p/HLQRCodeScanner.svg?style=flat)](http://cocoapods.org/pods/HLQRCodeScanner)
+[![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/wangshiyu13/HLQRCodeScanner/blob/master/LICENSE)
+[![CI Status](https://img.shields.io/badge/build-1.0.1-brightgreen.svg)](https://travis-ci.org/wangshiyu13/HLQRCodeScanner)
+[![CocoaPods](https://img.shields.io/badge/platform-iOS-lightgrey.svg)](http://cocoapods.org/?q= HLQRCodeScanner)
+[![Support](https://img.shields.io/badge/support-iOS%208%2B-blue.svg)](https://www.apple.com/nl/ios/)
 
 ## Example
 

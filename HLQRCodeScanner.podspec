@@ -1,4 +1,3 @@
-
 Pod::Spec.new do |s|
   s.name             = 'HLQRCodeScanner'
   s.version          = '1.0.1'
@@ -6,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/wangshiyu13/HLQRCodeScanner'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'wangshiyu13' => 'wangshiyu13@163.com' }
-  s.source           = { :git => 'https://github.com/wangshiyu13/HLQRCodeScanner.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/wangshiyu13/HLQRCodeScanner.git', :tag => s.version }
   s.ios.deployment_target = '8.0'
   s.source_files = 'HLQRCodeScanner/Classes/**/*'
   s.resources = 'HLQRCodeScanner/Assets/HLQRCodeScanner.bundle'
